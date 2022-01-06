@@ -1,0 +1,28 @@
+body {
+  background-color: #232152;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Zilla Slab', serif;
+  color: #fff;
+}
+
+.buttons {
+  text-align: center;
+  margin-top: 10em;
+}
+
+.butt {
+
+  border-radius: 2px;
+  border: 0.5em groove #2321a1;
+  font-family: 'Zilla Slab', serif;
+  background-color: #fff;
+  font-size: 2.5em;
+  font-weight: bold;
+  color: blue;
+  padding: 2em 2em 0em 1em;
+  margin: 0.2em;
+}
