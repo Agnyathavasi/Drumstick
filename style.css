@@ -15,14 +15,27 @@ h1 {
 }
 
 .butt {
+  padding: 20px 70px 70px 20px;
+  margin: 25px;
+  font-size: 28px;
+  background-color: #181818;
+  border: none;
+  border-radius: 10px;
+  color: #f1f1f1;
+  border-left: 15px solid #121212;
+  border-right: 15px solid #121212;
+  border-bottom: 15px solid #121212;
+  border-top: 10px solid #121212;
+}
 
-  border-radius: 2px;
-  border: 0.5em groove #2321a1;
-  font-family: 'Zilla Slab', serif;
-  background-color: #fff;
-  font-size: 2.5em;
-  font-weight: bold;
-  color: blue;
-  padding: 2em 2em 0em 1em;
-  margin: 0.2em;
+.butt:active {
+  padding: 20px 69px 69px 20px;
+  background-color: #151515;
+  border: none;
+  border-radius: 10px;
+  color: #f1f1f1;
+  border-left: 15px solid #101010;
+  border-right: 15px solid #101010;
+  border-bottom: 15px solid #101010;
+  border-top: 10px solid #101010;
 }
